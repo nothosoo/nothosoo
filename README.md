@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nothosoo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Hosoo
+- 👀 I’m interested in Korean food, science, history, and politics.
+- 🌱 I’m currently learning Svelte & Node.js
+- 💞️ I’m looking to collaborate on Javascript libraries.
+- 📫 Reach to me at hosoo.xoc@gmail.com
 
 <!---
 nothosoo/nothosoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
