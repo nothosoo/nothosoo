@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hosoo
 - 👀 I’m interested in Korean food, science, history, and politics.
-- 🌱 I’m currently learning Svelte & Node.js
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on Javascript libraries.
 - 📫 Reach to me at hosoo.xoc@gmail.com
 
